@@ -1,0 +1,1 @@
+print("repasar una lista alreves para el examen")
